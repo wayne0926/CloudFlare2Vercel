@@ -1,6 +1,6 @@
 {
   "version": 2,
   "routes": [
-      {"src": "/(.*)","dest": "https://{DOMAIN}/$1"}
+      {"src": "/(.*)","dest": "https://hpp.wr0926.ml/$1"}
   ]
 }
